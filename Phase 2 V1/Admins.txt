@@ -1,0 +1,5 @@
+Name = mohamed
+ID = 123
+Password = 12345789
+Salary = 5000
+Balance = 12000
